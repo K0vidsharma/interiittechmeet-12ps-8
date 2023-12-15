@@ -17,13 +17,13 @@ Contains files related to Task 2.
 - `task2_preprocessing.ipynb`: Jupyter notebook for preprocessing data related to Task 2.
 - `task2.ipynb`: Main Jupyter notebook for Task 2.
 
-### outputs
+### team_65_results
 Contains output files generated from the tasks.
 
-- `behaviour_simulation_test_company_output.xlsx`: Prediction of likes ( **predicted_likes** column) for tweets of unseen brands.
-- `behaviour_simulation_test_time_output.xlsx`: Prediction of likes ( **predicted_likes** column) for tweets of unseen time period.
-- `content_simulation_test_company_output.xlsx`: Prediction of content ( **output** column) for tweets of unseen brands.
-- `content_simulation_test_time_output.xlsx`: Prediction of content ( **output** column) for tweets of unseen time period.
+- `behaviour_simulation_test_company.xlsx`: Prediction of likes ( **predicted_likes** column) for tweets of unseen brands.
+- `behaviour_simulation_test_time.xlsx`: Prediction of likes ( **predicted_likes** column) for tweets of unseen time period.
+- `content_simulation_test_company.xlsx`: Prediction of content ( **output** column) for tweets of unseen brands.
+- `content_simulation_test_time.xlsx`: Prediction of content ( **output** column) for tweets of unseen time period.
 
 ## Usage:
 
