@@ -9,7 +9,6 @@ Contains files related to Task 1.
 
 - `task1_preprocessing.ipynb`: Jupyter notebook for preprocessing data related to Task 1.
 - `task1.ipynb`: Main Jupyter notebook for Task 1.
-- `final.pth`: Model for Task 1.
 
 ### task2
 Contains files related to Task 2.
